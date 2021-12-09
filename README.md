@@ -6,16 +6,4 @@
 
 - `WadeSlider#6847`
 
-- [`Servidor`](https://discord.gg/AVDCzyBWnK)
-
-## NPM
-
-- [`lamonalisa`](https://www.npmjs.com/package/lamonalisa)
-
-## API
-
-- [`LaMonaLisa`](https://api.lamonalisa.repl.co/)
-
-## BOT
-
-- [`LaMonaLisa`](https://bot.lamonalisa.repl.co/)
+- [`Servidor`](https://discord.gg/WVjqPY6fUv)
