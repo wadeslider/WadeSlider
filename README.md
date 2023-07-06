@@ -2,6 +2,6 @@
 
 ## Discord:
 
-- `WadeSlider#0123`
+- `wadeslider`
 
-- [`Servidor`](https://discord.gg/rPc5GdhgkQ)
+- [`Servidor`](https://discord.gg/HJJpT5de9w)
