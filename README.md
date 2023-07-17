@@ -9,5 +9,5 @@ Hola, soy WadeSlider, un chico capaz de lograr lo que se propone, él es de naci
 ## Enlaces:
 
 - [`Servidor`](https://discord.gg/JN8W6qfT6U)
- [![imagen](https://github.com/wadeslider/WadeSlider/assets/88852568/3ff70969-759b-4869-89a5-33b0ae612fee)](https://discord.gg/JN8W6qfT6U)
+- ![Discord](https://github.com/wadeslider/WadeSlider/assets/88852568/3ff70969-759b-4869-89a5-33b0ae612fee)(https://discord.gg/JN8W6qfT6U)
 
