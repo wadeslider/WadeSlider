@@ -4,4 +4,4 @@
 
 - `wadeslider`
 
-- [`Servidor`](https://discord.gg/HJJpT5de9w)
+- [`Servidor`](https://discord.gg/JN8W6qfT6U)
